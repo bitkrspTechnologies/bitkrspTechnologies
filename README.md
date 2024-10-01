@@ -1,6 +1,6 @@
-# BitKrysp Technology
+# BitKrsp Technologies 
 
-Welcome to BitKrysp Technology! We specialize in innovative software solutions and cutting-edge technology services. Our mission is to empower businesses through digital transformation and streamline operations with our expert solutions.
+Welcome to BitKrsp Technologies! We specialize in innovative software solutions and cutting-edge technology services. Our mission is to empower businesses through digital transformation and streamline operations with our expert solutions.
 
 ## 🚀 Our Services
 
@@ -47,4 +47,4 @@ For inquiries or to discuss your project, reach out at:
 - Email: contact@bitkrysp.com  
 - Phone: +1 (234) 567-8901  
 
-Thank you for visiting BitKrysp Technology! Let's innovate together!
+Thank you for visiting BitKrsp Technologies! Let's innovate together!
